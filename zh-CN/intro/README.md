@@ -1,5 +1,5 @@
 ---
-name: 简介
+name: 服务介绍
 ---
 
 # 欢迎使用由Frankjun提供的国际化BGW!Net服务
