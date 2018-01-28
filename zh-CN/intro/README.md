@@ -3,6 +3,7 @@ name: 服务介绍
 ---
 
 # 欢迎使用由Frankjun提供的国际化BGW!Net服务
+### 注意⚠️ 本文档系统正在完善，相关资料可能存在错误,BGW!Net对该文档持有完整解释、修改、著作权
 > **Break the Great Wall of Network**
 
 
