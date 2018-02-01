@@ -4,9 +4,11 @@ name: IOS全面连接教程
 
 # IOS移动端全面连接教程
 
-> **本教程需要一个个人邮箱及其绑定的Apple ID（必须为非国内Apple ID），本教程以后台板式为移动板式进行教学，我们推荐你使用手机浏览器打开本页面进行对照配置**
+> **本教程需要一个个人邮箱及其绑定的Apple ID（必须为非国内Apple ID）**
+**本教程以后台板式为移动板式进行教学，我们推荐你使用手机浏览器打开本页面进行对照配置**
 鉴于近日日益推进实行的网络法，IOS上使用网络加速服务将愈加困难，请做好心理准备，BGW!Net并不保证该教程长期可用性
 
+:white_check_mark:**你无法获取美区Apple ID或无法获取软件？[那么点击这里寻求帮助吧][1]**
 在教程开始前，我们已默认你拥有非国内（美区、港区等）可用Apple ID
 那么，我们开始吧：
 
@@ -17,26 +19,28 @@ name: IOS全面连接教程
 
 
  2.**用手机浏览器进入后台，你应该见到以下界面，此时，请严格按照图片操作**
- ![此处输入图片的描述][1]
-![此处输入图片的描述][2]
+ ![此处输入图片的描述][2]
+![此处输入图片的描述][3]
 
 
 ----------
 
 
  3.**打开下载后的应用程式，你应该看到以下界面，此时，请严格按照图片操作**
-![此处输入图片的描述][3]
 ![此处输入图片的描述][4]
 ![此处输入图片的描述][5]
 ![此处输入图片的描述][6]
+![此处输入图片的描述][7]
 
 
 ----------
 4.**最后点击连接开关，直飞外网~！**
 
-  [1]: https://raw.githubusercontent.com/LYJSPEEDX/bgwdocs/master/1.png
-  [2]: https://raw.githubusercontent.com/LYJSPEEDX/bgwdocs/master/2.png
-  [3]: https://raw.githubusercontent.com/LYJSPEEDX/bgwdocs/master/3.png
-  [4]: https://raw.githubusercontent.com/LYJSPEEDX/bgwdocs/master/4.png
-  [5]: https://raw.githubusercontent.com/LYJSPEEDX/bgwdocs/master/5.png
-  [6]: https://raw.githubusercontent.com/LYJSPEEDX/bgwdocs/master/6.jpg
+
+  [1]: https://support.frankjun.com/docs/value_added/shadowrocket
+  [2]: https://raw.githubusercontent.com/LYJSPEEDX/bgwdocs/master/1.png
+  [3]: https://raw.githubusercontent.com/LYJSPEEDX/bgwdocs/master/2.png
+  [4]: https://raw.githubusercontent.com/LYJSPEEDX/bgwdocs/master/3.png
+  [5]: https://raw.githubusercontent.com/LYJSPEEDX/bgwdocs/master/4.png
+  [6]: https://raw.githubusercontent.com/LYJSPEEDX/bgwdocs/master/5.png
+  [7]: https://raw.githubusercontent.com/LYJSPEEDX/bgwdocs/master/6.jpg
