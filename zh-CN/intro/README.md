@@ -21,6 +21,7 @@ Hello！欢迎浏览BGW!Net官方支持教程，本教程由BGW!Net Official Sup
 > BGW.FRANKJUN.COM初衷為構建使用成本更廉價、更開放、更注重個人用戶隱私的互聯網生態圈，致力於以低價，提供適用于廣泛互聯網參與者以優質、舒心的服務
 ——Chief Executive Officer of BGW!Net
 
+ - BGW!Net即'Break the Great Wall of Network' 引申为“打破互联网的高墙”,我想含义各位都懂，在此就不必多说了:smile:
  - 完全支持**Windows（电脑） IOS MacOS（苹果） Android（安卓）Linux（路由器）**全平台，平台不设限
  - 弹性支付，支持以**时间、流量、速度和线路等**方式结算，技术付费门槛低，适合**正太御姐 小白 学生党 上班族**等各种人群使用
  - 配备一流用户社区，随时交流，BGW!Net路上不孤单
