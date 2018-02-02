@@ -22,11 +22,13 @@ BGW!Net使用安全可靠的ShadowsocksR协议，利用负载均衡多节点分�
  - [路由器-梅林改版固件教程][4]
  
 ----------
-更多:
+更多&高级玩法:
 
  - [业务详细介绍&教程使用方法][5]
  - [**充值和购买套餐**][6]
-
+ - [美国Apple ID创建，下载国区没有的软件][7]
+ - [整屋科学上网解决方案][8]
+ 
 ----------
 *一般情况下，在Android、Winodws和路由器使用最简单  
 苹果系列设备BGW!Net将可能在首次使用时收取少许装配费用（可选）
@@ -40,3 +42,5 @@ BGW!Net使用安全可靠的ShadowsocksR协议，利用负载均衡多节点分�
   [4]: https://support.frankjun.com/docs/startup/router
   [5]: https://support.frankjun.com/docs/intro/detail
   [6]: https://support.frankjun.com/docs/purchase/recharge
+  [7]: https://support.frankjun.com/docs/value_added/shadowrocket
+  [8]: https://support.frankjun.com/docs/value_added/router
