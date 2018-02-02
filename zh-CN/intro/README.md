@@ -22,10 +22,10 @@ BGW!Net使用安全可靠的ShadowsocksR协议，利用负载均衡多节点分�
  - [路由器-梅林改版固件教程][4]
  
 ----------
-深入了解BGW!Net:
+更多:
 
  - [业务详细介绍&教程使用方法][5]
-
+ - [**充值和购买套餐**][6]
 
 ----------
 *一般情况下，在Android、Winodws和路由器使用最简单  
@@ -33,8 +33,10 @@ BGW!Net使用安全可靠的ShadowsocksR协议，利用负载均衡多节点分�
 
   
 
+
   [1]: https://support.frankjun.com/docs/startup/basic
   [2]: https://support.frankjun.com/docs/startup/ios
   [3]: https://support.frankjun.com/docs/startup/android
   [4]: https://support.frankjun.com/docs/startup/router
   [5]: https://support.frankjun.com/docs/intro/detail
+  [6]: https://support.frankjun.com/docs/purchase/recharge
