@@ -12,9 +12,17 @@ name: 充值
 2.输入你**充值的金额**和**一定备注你的邮箱**    
 
 3.**邮箱查收激活码，并在后台激活即可，邮件发送期限<=1天，系统自动核查处理**
+  
+4.拥有余额后，你可以看接下来的套餐简介，记住代码，去后台选购了：  
+ 
+ - [香港直连2号][3]
+
+
+----------
+**以下是充值二维码，手机截图扫描即可**
 ![此处输入图片的描述][1]
 ![此处输入图片的描述][2]
 
-
   [1]: https://raw.githubusercontent.com/LYJSPEEDX/bgwdocs/master/wechat.JPG
   [2]: https://raw.githubusercontent.com/LYJSPEEDX/bgwdocs/master/alipay.png
+  [3]: https://support.frankjun.com/docs/purchase/hongkong2
