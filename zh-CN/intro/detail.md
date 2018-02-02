@@ -1,8 +1,8 @@
 ---
-name: 写在前面
+name: BGW!Net业务介绍
 ---
 
-# 欢迎使用BGW!Net网络国际化服务
+# BGW!Net业务介绍
 > **Break the Great Wall of Network**
 
 ## 写在写在前面的前面
