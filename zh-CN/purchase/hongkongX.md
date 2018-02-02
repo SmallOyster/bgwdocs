@@ -1,5 +1,5 @@
 ---
-name: HongKongX次时代CN2线路
+name: HongKongX次时代CN2
 ---
 
 # 改写互联网历史的HongKongX次时代CN2线路
