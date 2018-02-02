@@ -27,6 +27,12 @@ BGW!Net使用安全可靠的ShadowsocksR协议，利用负载均衡多节点分�
  - [业务详细介绍][5]
 
 
+----------
+*一般情况下，在Android、Winodws和路由器使用最简单  
+苹果系列设备BGW!Net将可能在首次使用时收取少许装配费用（可选）
+
+  
+
   [1]: https://support.frankjun.com/docs/startup/basic
   [2]: https://support.frankjun.com/docs/startup/ios
   [3]: https://support.frankjun.com/docs/startup/android
