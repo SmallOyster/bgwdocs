@@ -4,7 +4,7 @@ name: 取得联系
 
 # 与BGW!Net取得更贴近人心的联系
 
-> **欢迎选择BGW!Net，如你在使用过程中有任何疑问，想要提出建议、询问问题等，请按照以下方式联系，谢谢！**
+> **欢迎选择BGW!Net，如你在使用过程中有任何话想对BGW!Net说，请通过以下方式联系我们，谢谢！**
 
  - **Wechat：jun1402399466**
  - **Email（Recommended)：frankjunx@gmail.com**
